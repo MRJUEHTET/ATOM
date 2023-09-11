@@ -4,7 +4,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-001",
+         "name": "MM-ATOM-001",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-01.ovpn"
 
@@ -13,7 +13,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-002",
+         "name": "MM-ATOM-002",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-02.ovpn"
 
@@ -22,7 +22,7 @@
       
 {
 
-         "name": "SG🇲🇲ATOM-003",
+         "name": "MM-ATOM-003",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-03.ovpn"
 
@@ -30,7 +30,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-004",
+         "name": "MM-ATOM-004",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-04.ovpn"
 
@@ -39,7 +39,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-005",
+         "name": "MM-ATOM-005",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-05.ovpn"
 
@@ -48,7 +48,7 @@
      
 {
 
-         "name": "SG🇲🇲ATOM-006",
+         "name": "MM-ATOM-006",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-06.ovpn"
 
@@ -57,7 +57,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-007",
+         "name": "MM-ATOM-007",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-07.ovpn"
 
@@ -66,7 +66,7 @@
       
 {
 
-         "name": "SG🇲🇲ATOM-008",
+         "name": "MM-ATOM-008",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-08.ovpn"
 
@@ -74,7 +74,7 @@
 
 {
 
-         "name": "SG🇲🇲ATOM-009",
+         "name": "MM-ATOM-009",
 
          "url": "https://raw.githubusercontent.com/MRJUEHTET/ATOM/main/ATOM-09.ovpn"
 
@@ -84,10 +84,10 @@
 
    ],
 
-"message":"11 September 2023\n\n•Version:1\n\n📢By : Jue Htet 📢",
+"message":"11 September 2023\n\n•Version:2\n\n📢By : Jue Htet 📢",
 
    "title":"ATOM FOR 🇲🇲" ,
 
-   "version": 1
+   "version": 2
 
 }
